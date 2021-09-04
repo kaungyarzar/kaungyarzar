@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaungyarzar
 - 👀 I’m interested in computer engineering.
-- 🌱 I’m currently learning front-end, backend, system architectures, containers, networking, embedded systems.
+- 🌱 I’m currently learning front-end, backend, system architectures, containers, networking and embedded systems.
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 You can reach me through e-mail.
 
